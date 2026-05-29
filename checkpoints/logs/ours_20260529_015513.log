@@ -1,0 +1,46 @@
+01:55:13 | Logging to checkpoints/logs/ours_20260529_015513.log
+01:55:13 | 
+============================================================
+01:55:13 | Training OURS on cpu
+01:55:13 | ============================================================
+01:55:13 | Train batches: 20, Val batches: 5
+01:55:13 | Model parameters: 596,880
+01:55:41 | Epoch   1 | train_loss=0.292305 | val_loss=0.007858 | lr=1.00e-03
+01:56:09 | Epoch   2 | train_loss=0.007819 | val_loss=0.002904 | lr=1.00e-03
+01:56:38 | Epoch   3 | train_loss=0.001886 | val_loss=0.001416 | lr=1.00e-03
+01:57:06 | Epoch   4 | train_loss=0.001157 | val_loss=0.000960 | lr=1.00e-03
+01:57:33 | Epoch   5 | train_loss=0.000900 | val_loss=0.000891 | lr=1.00e-03
+01:58:02 | Epoch   6 | train_loss=0.000801 | val_loss=0.000756 | lr=1.00e-03
+01:58:30 | Epoch   7 | train_loss=0.000771 | val_loss=0.000706 | lr=1.00e-03
+01:58:58 | Epoch   8 | train_loss=0.000747 | val_loss=0.000709 | lr=1.00e-03
+01:59:26 | Epoch   9 | train_loss=0.000694 | val_loss=0.000635 | lr=1.00e-03
+01:59:55 | Epoch  10 | train_loss=0.000665 | val_loss=0.000602 | lr=1.00e-03
+02:00:23 | Epoch  11 | train_loss=0.000640 | val_loss=0.000589 | lr=1.00e-03
+02:00:51 | Epoch  12 | train_loss=0.000602 | val_loss=0.000531 | lr=1.00e-03
+02:01:19 | Epoch  13 | train_loss=0.000650 | val_loss=0.000560 | lr=1.00e-03
+02:01:47 | Epoch  14 | train_loss=0.000563 | val_loss=0.000560 | lr=1.00e-03
+02:02:16 | Epoch  15 | train_loss=0.000566 | val_loss=0.000543 | lr=1.00e-03
+02:02:44 | Epoch  16 | train_loss=0.000577 | val_loss=0.000537 | lr=1.00e-03
+02:03:14 | Epoch  17 | train_loss=0.000558 | val_loss=0.000573 | lr=1.00e-03
+02:03:45 | Epoch  18 | train_loss=0.000544 | val_loss=0.000480 | lr=1.00e-03
+02:04:15 | Epoch  19 | train_loss=0.000515 | val_loss=0.000472 | lr=1.00e-03
+02:04:44 | Epoch  20 | train_loss=0.000535 | val_loss=0.000458 | lr=5.00e-04
+02:05:13 | Epoch  21 | train_loss=0.000534 | val_loss=0.000494 | lr=5.00e-04
+02:05:42 | Epoch  22 | train_loss=0.000504 | val_loss=0.000487 | lr=5.00e-04
+02:06:10 | Epoch  23 | train_loss=0.000534 | val_loss=0.000494 | lr=5.00e-04
+02:06:38 | Epoch  24 | train_loss=0.000505 | val_loss=0.000460 | lr=5.00e-04
+02:07:07 | Epoch  25 | train_loss=0.000513 | val_loss=0.000503 | lr=5.00e-04
+02:07:35 | Epoch  26 | train_loss=0.000510 | val_loss=0.000550 | lr=5.00e-04
+02:08:03 | Epoch  27 | train_loss=0.000485 | val_loss=0.000501 | lr=5.00e-04
+02:08:31 | Epoch  28 | train_loss=0.000495 | val_loss=0.000519 | lr=5.00e-04
+02:08:59 | Epoch  29 | train_loss=0.000498 | val_loss=0.000480 | lr=5.00e-04
+02:09:27 | Epoch  30 | train_loss=0.000490 | val_loss=0.000485 | lr=5.00e-04
+02:09:56 | Epoch  31 | train_loss=0.000501 | val_loss=0.000482 | lr=5.00e-04
+02:10:24 | Epoch  32 | train_loss=0.000473 | val_loss=0.000479 | lr=5.00e-04
+02:10:53 | Epoch  33 | train_loss=0.000497 | val_loss=0.000493 | lr=5.00e-04
+02:11:21 | Epoch  34 | train_loss=0.000491 | val_loss=0.000477 | lr=5.00e-04
+02:11:49 | Epoch  35 | train_loss=0.000461 | val_loss=0.000476 | lr=5.00e-04
+02:11:49 | Early stopping at epoch 35 (no improvement for 15 epochs)
+02:11:49 | 
+Training completed in 996.1s (16.6 min)
+02:11:49 | Best val_loss: 0.000458 at epoch 20

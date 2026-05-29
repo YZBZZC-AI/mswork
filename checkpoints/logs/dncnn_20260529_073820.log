@@ -1,0 +1,60 @@
+07:38:20 | Logging to checkpoints/logs/dncnn_20260529_073820.log
+07:38:20 | 
+============================================================
+07:38:20 | Training DNCNN on cpu
+07:38:20 | ============================================================
+07:38:20 | Train batches: 20, Val batches: 5
+07:38:20 | Model parameters: 556,032
+07:38:43 | Epoch   1 | train_loss=0.059247 | val_loss=0.018146 | lr=1.00e-03
+07:39:05 | Epoch   2 | train_loss=0.009312 | val_loss=0.008720 | lr=1.00e-03
+07:39:29 | Epoch   3 | train_loss=0.006989 | val_loss=0.006047 | lr=1.00e-03
+07:39:52 | Epoch   4 | train_loss=0.005399 | val_loss=0.004871 | lr=1.00e-03
+07:40:14 | Epoch   5 | train_loss=0.004314 | val_loss=0.003964 | lr=1.00e-03
+07:40:35 | Epoch   6 | train_loss=0.003457 | val_loss=0.003076 | lr=1.00e-03
+07:40:57 | Epoch   7 | train_loss=0.002914 | val_loss=0.002746 | lr=1.00e-03
+07:41:19 | Epoch   8 | train_loss=0.002551 | val_loss=0.002383 | lr=1.00e-03
+07:41:41 | Epoch   9 | train_loss=0.002425 | val_loss=0.002189 | lr=1.00e-03
+07:42:03 | Epoch  10 | train_loss=0.002114 | val_loss=0.002120 | lr=1.00e-03
+07:42:24 | Epoch  11 | train_loss=0.001919 | val_loss=0.001792 | lr=1.00e-03
+07:42:45 | Epoch  12 | train_loss=0.002767 | val_loss=0.002740 | lr=1.00e-03
+07:43:07 | Epoch  13 | train_loss=0.002160 | val_loss=0.001933 | lr=1.00e-03
+07:43:28 | Epoch  14 | train_loss=0.001747 | val_loss=0.001691 | lr=1.00e-03
+07:43:50 | Epoch  15 | train_loss=0.001586 | val_loss=0.001422 | lr=1.00e-03
+07:44:11 | Epoch  16 | train_loss=0.001426 | val_loss=0.001342 | lr=1.00e-03
+07:44:33 | Epoch  17 | train_loss=0.001360 | val_loss=0.001245 | lr=1.00e-03
+07:44:55 | Epoch  18 | train_loss=0.001269 | val_loss=0.001204 | lr=1.00e-03
+07:45:17 | Epoch  19 | train_loss=0.001222 | val_loss=0.001067 | lr=1.00e-03
+07:45:39 | Epoch  20 | train_loss=0.001107 | val_loss=0.001069 | lr=5.00e-04
+07:46:01 | Epoch  21 | train_loss=0.001062 | val_loss=0.001002 | lr=5.00e-04
+07:46:23 | Epoch  22 | train_loss=0.001046 | val_loss=0.001004 | lr=5.00e-04
+07:46:45 | Epoch  23 | train_loss=0.000993 | val_loss=0.000912 | lr=5.00e-04
+07:47:08 | Epoch  24 | train_loss=0.000966 | val_loss=0.000878 | lr=5.00e-04
+07:47:31 | Epoch  25 | train_loss=0.000936 | val_loss=0.000858 | lr=5.00e-04
+07:47:53 | Epoch  26 | train_loss=0.000922 | val_loss=0.000909 | lr=5.00e-04
+07:48:16 | Epoch  27 | train_loss=0.000899 | val_loss=0.000862 | lr=5.00e-04
+07:48:39 | Epoch  28 | train_loss=0.000892 | val_loss=0.000807 | lr=5.00e-04
+07:49:02 | Epoch  29 | train_loss=0.000889 | val_loss=0.000844 | lr=5.00e-04
+07:49:24 | Epoch  30 | train_loss=0.000894 | val_loss=0.000799 | lr=5.00e-04
+07:49:46 | Epoch  31 | train_loss=0.000858 | val_loss=0.000836 | lr=5.00e-04
+07:50:09 | Epoch  32 | train_loss=0.000836 | val_loss=0.000816 | lr=5.00e-04
+07:50:32 | Epoch  33 | train_loss=0.000827 | val_loss=0.000751 | lr=5.00e-04
+07:50:54 | Epoch  34 | train_loss=0.000800 | val_loss=0.000731 | lr=5.00e-04
+07:51:17 | Epoch  35 | train_loss=0.000792 | val_loss=0.000745 | lr=5.00e-04
+07:51:39 | Epoch  36 | train_loss=0.000743 | val_loss=0.000690 | lr=5.00e-04
+07:52:01 | Epoch  37 | train_loss=0.000739 | val_loss=0.000746 | lr=5.00e-04
+07:52:23 | Epoch  38 | train_loss=0.000764 | val_loss=0.000724 | lr=5.00e-04
+07:52:45 | Epoch  39 | train_loss=0.000761 | val_loss=0.000663 | lr=5.00e-04
+07:53:07 | Epoch  40 | train_loss=0.000736 | val_loss=0.000670 | lr=2.50e-04
+07:53:28 | Epoch  41 | train_loss=0.000691 | val_loss=0.000656 | lr=2.50e-04
+07:53:50 | Epoch  42 | train_loss=0.000709 | val_loss=0.000648 | lr=2.50e-04
+07:54:12 | Epoch  43 | train_loss=0.000717 | val_loss=0.000672 | lr=2.50e-04
+07:54:33 | Epoch  44 | train_loss=0.000683 | val_loss=0.000673 | lr=2.50e-04
+07:54:55 | Epoch  45 | train_loss=0.000707 | val_loss=0.000670 | lr=2.50e-04
+07:55:17 | Epoch  46 | train_loss=0.000689 | val_loss=0.000630 | lr=2.50e-04
+07:55:39 | Epoch  47 | train_loss=0.000662 | val_loss=0.000665 | lr=2.50e-04
+07:56:01 | Epoch  48 | train_loss=0.000676 | val_loss=0.000640 | lr=2.50e-04
+07:56:22 | Epoch  49 | train_loss=0.000669 | val_loss=0.000650 | lr=2.50e-04
+07:56:43 | Epoch  50 | train_loss=0.000667 | val_loss=0.000640 | lr=2.50e-04
+07:56:43 | 
+Training completed in 1102.4s (18.4 min)
+07:56:43 | Best val_loss: 0.000630 at epoch 46
